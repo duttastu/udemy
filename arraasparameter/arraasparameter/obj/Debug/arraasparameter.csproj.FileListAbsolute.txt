@@ -1,0 +1,7 @@
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\bin\Debug\arraasparameter.exe.config
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\bin\Debug\arraasparameter.exe
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\bin\Debug\arraasparameter.pdb
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\obj\Debug\arraasparameter.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\obj\Debug\arraasparameter.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\obj\Debug\arraasparameter.exe
+C:\Users\dutta\source\repos\udemy\arraasparameter\arraasparameter\obj\Debug\arraasparameter.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraasparameter", "arraasparameter\arraasparameter.csproj", "{5BAEC10D-DA64-4AFD-A019-61F295C558CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAEC10D-DA64-4AFD-A019-61F295C558CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAEC10D-DA64-4AFD-A019-61F295C558CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAEC10D-DA64-4AFD-A019-61F295C558CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAEC10D-DA64-4AFD-A019-61F295C558CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54E637C5-EB77-4285-853A-0AA1E29D3E2B}
+	EndGlobalSection
+EndGlobal
