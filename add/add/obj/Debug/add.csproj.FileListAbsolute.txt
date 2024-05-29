@@ -1,0 +1,6 @@
+C:\Users\dutta\source\repos\udemy\add\add\bin\Debug\add.dll
+C:\Users\dutta\source\repos\udemy\add\add\bin\Debug\add.pdb
+C:\Users\dutta\source\repos\udemy\add\add\obj\Debug\add.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\udemy\add\add\obj\Debug\add.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\udemy\add\add\obj\Debug\add.dll
+C:\Users\dutta\source\repos\udemy\add\add\obj\Debug\add.pdb
