@@ -1,0 +1,14 @@
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.AssemblyInfo.cs
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\udemy\2darray\2darray\bin\Debug\net8.0\2darray.exe
+C:\Users\dutta\source\repos\udemy\2darray\2darray\bin\Debug\net8.0\2darray.deps.json
+C:\Users\dutta\source\repos\udemy\2darray\2darray\bin\Debug\net8.0\2darray.runtimeconfig.json
+C:\Users\dutta\source\repos\udemy\2darray\2darray\bin\Debug\net8.0\2darray.dll
+C:\Users\dutta\source\repos\udemy\2darray\2darray\bin\Debug\net8.0\2darray.pdb
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.dll
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\refint\2darray.dll
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.pdb
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\2darray.genruntimeconfig.cache
+C:\Users\dutta\source\repos\udemy\2darray\2darray\obj\Debug\net8.0\ref\2darray.dll
