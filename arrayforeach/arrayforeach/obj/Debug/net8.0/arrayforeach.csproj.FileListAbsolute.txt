@@ -1,0 +1,14 @@
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\bin\Debug\net8.0\arrayforeach.exe
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\bin\Debug\net8.0\arrayforeach.deps.json
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\bin\Debug\net8.0\arrayforeach.runtimeconfig.json
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\bin\Debug\net8.0\arrayforeach.dll
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\bin\Debug\net8.0\arrayforeach.pdb
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.AssemblyInfo.cs
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.dll
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\refint\arrayforeach.dll
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.pdb
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\arrayforeach.genruntimeconfig.cache
+C:\Users\dutta\source\repos\udemy\arrayforeach\arrayforeach\obj\Debug\net8.0\ref\arrayforeach.dll
